@@ -76,9 +76,7 @@ footer{
 #destinations img{
   width: 100%;
 }
-/* --- */
 
-/* NEXT TRIP */
 #next-trip{
   margin-bottom: 4rem;
 }
@@ -94,7 +92,6 @@ footer{
   margin-top: 1.5rem;
 }
 
-/* DESTINATIONS */
 #destinations{
   margin-bottom: 2.5rem;
 }
