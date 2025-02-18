@@ -15,9 +15,6 @@ Este projeto é uma **página de destino turístico** desenvolvida em **HTML** e
   Emprega variáveis CSS para manter a consistência das cores e estilos, além de técnicas modernas para responsividade e design adaptativo.  
   O código destaca a importância da tipografia, espaçamentos e alinhamento, contribuindo para uma experiência de usuário agradável.
 
-- **Conteúdo Rico**:  
-  Descreve com detalhes as atrações de Busan, combinando imagens ilustrativas com textos informativos sobre a cultura, história e natureza da cidade.
-
 - **Design Responsivo**:  
   Adapta o layout para diferentes tamanhos de tela, garantindo que a página seja acessível e bem estruturada em dispositivos móveis e desktops.
 
