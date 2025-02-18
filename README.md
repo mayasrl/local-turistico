@@ -1,4 +1,4 @@
-# local-turistico.rocketseat
+# Local Turístico
 
 Projeto realizado no curso de Fullstack da Rocketseat
 
