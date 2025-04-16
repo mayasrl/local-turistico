@@ -1,9 +1,9 @@
-# Local Turístico
+# Página de Local Turístico
 
 Este projeto é uma **página de destino turístico** desenvolvida em **HTML** e **CSS**. A página apresenta informações sobre Busan, na Coreia do Sul, destacando seus principais pontos turísticos, como templos históricos e parques, de forma clara e visualmente atraente. O objetivo é praticar a **estruturação semântica** e a **estilização responsiva** com boas práticas de desenvolvimento web.
 
 ---
-
+ 
 ## Visão Geral
 
 - **HTML5**:  
